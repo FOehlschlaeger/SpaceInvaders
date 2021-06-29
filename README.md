@@ -17,13 +17,13 @@ This game **SpaceInvaders** is based on or created under guidance of the Udemy c
 * Unity
 
 ## Personal  Approach / Idea / Concept / Steps
-* Create the game under guidance of the Udemy course
-** create map
-** insert animation
-** adding player motion
-** create spheres and their motion and functionality
-** adding desctruction of bullets and player
-** insert spawn points and reload level
+* Create the game under guidance of the Udemy course\
+** create map\
+** insert animation\
+** adding player motion\
+** create spheres and their motion and functionality\
+** adding desctruction of bullets and player\
+** insert spawn points and reload level\
 
 ## Conclusion / Remarks
 * In this project I learned to develop a small game SpaceInvaders as first approach in game development using C# and Unity. 
