@@ -2,11 +2,12 @@
 
 ## Description / Project Goal / Project Background
 
-First small project to create simple videogames. \
+Small project to create a simple 2D videogame based on the classic [Space Invaders Game](https://en.wikipedia.org/wiki/Space_Invaders). \
 This game **SpaceInvaders** is based on or created under guidance of the Udemy course https://www.udemy.com/course/die_unity_masterclass/
 
 ## Keywords
 * Game Development
+* Space Invaders
 * Unity
 * C#
 
@@ -14,7 +15,7 @@ This game **SpaceInvaders** is based on or created under guidance of the Udemy c
 * C#
 
 ## Tools / Libraries Used
-* Unity
+* Unity 2020.3.6f1
 
 ## Personal  Approach / Idea / Concept / Steps
 * Create the game under guidance of the Udemy course
